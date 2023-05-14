@@ -32,8 +32,9 @@
 
 
 <p align="center">
+ <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadb7&layout=compact&langs_count=6&theme=nord" />
  <a href="#" alt="Ahmad Babaee's github stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmadb7&theme=tokyonight&show_icons=true" />
+  <img height="160px" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmadb7&theme=tokyonight&show_icons=true" />
  </a>
 </p>
 
